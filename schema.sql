@@ -24,3 +24,7 @@ CREATE TABLE Vendas (
  quantidade INT NOT NULL,
  data_venda TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
+
+-- Restrição para o email
+ALTER TABLE Utilizadores
+ADD CONSTRAINT email_valido CHECK (email LIKE '%@%.%'); 
