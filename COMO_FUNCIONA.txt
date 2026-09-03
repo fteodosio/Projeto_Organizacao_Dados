@@ -1,0 +1,15 @@
+1. Onde estão os dados: ("Os dados de vendas estão na base
+Organização").
+2. Como atualizar: ("Abram o Excel, carreguem no botão 'Atualizar
+Dados' no menu Dados").
+3. O que fazer se der erro: ("Se aparecer um erro, chamem o [Nome de
+um colega que vocês treinaram]").
+COMO VER AS VENDAS:
+1. Abrir o ficheiro 'Relatorio_Vendas.xlsx'.
+2. Clicar no separador 'Dados' lá em cima.
+3. Clicar no botão 'Atualizar Tudo'.
+4. Se pedir uma senha, é [A vossa senha].
+SE DER ERRO:
+1. Verificar se o computador tem internet.
+2. Se o erro persistir, enviar um print screen do erro para o e-mail:
+[vosso_email@empresa.com].
