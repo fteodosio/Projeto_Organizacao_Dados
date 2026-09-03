@@ -1,0 +1,18 @@
+Mês 1: O "Relatório de Raio-X" (Saber o que se vende)
+Em vez de pedirem ao Diretor para adivinhar o que vende mais, vocês vão entregarlhe a lista.
+• Isto é literal: Vocês não estão a "fazer visão", estão a dar-lhe uma lista de
+factos.
+Mês 2: O "Formulário de Entrada" (Parar com os erros de digitação)
+Chega de andar a copiar e colar dados de e-mails para o Excel.
+1. A Ferramenta: Abram o Google Forms (ou Microsoft Forms se usarem Office
+365).
+2. O Formulário: Criem um questionário com os campos: `Nome do Produto`,
+`Quantidade`, `Preço`.
+3. A Automação: Quando alguém preenche isto, o Windows/Excel guarda os dados
+numa folha.
+4. A Integração (O passo que importa): Configuram o formulário para, sempre que
+alguém clicar em "Enviar", a informação ser guardada num Excel que está ligado à
+vossa base de dados.
+• Literal: Ninguém escreve mais nada à mão. O cliente ou o colega escreve, e
+o dado vai para o sítio certo.
+Mês 3: O "Diário de Poupado" (A prova do vosso valor)
