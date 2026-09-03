@@ -5,3 +5,5 @@ dados.
 "O que é isto?": "É o sistema que gere a `Organização`. Guarda clientes, vendas e stocks."
 "Onde está a planta?": "Tudo o que criámos está nos ficheiros `.sql` nesta pasta."
 "O que fazer se tudo arder?": "Corram o ficheiro `schema.sql` e `data.sql` que está nesta pasta."
+
+Reflete a consolidação da infraestrutura e a conclusão do percurso prático do projeto.
