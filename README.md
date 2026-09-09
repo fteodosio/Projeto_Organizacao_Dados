@@ -8,3 +8,4 @@ dados.
 
 Reflete a consolidação da infraestrutura e a conclusão do percurso prático do projeto.
 Reflete a consolidação dos procedimentos de monitorização e resiliência cloud.
+Reflete a consolidação global da infraestrutura Cloud no Neon PostgreSQL, descrevendo o protocolo do "Teste de Férias", a gestão de perfis (RBAC) e o mapa de salvaguarda/PITR.
